@@ -15,7 +15,7 @@ ThS Phạm Nguyễn Trường An
 
 ## TABLE OF CONTENTS
 * [ Classroom Exercises]
-* [ Python challenging programming exercises]
+* [ Python programming exercises]
 * [ Colab Assignments]
 * [ Final Project]
 
